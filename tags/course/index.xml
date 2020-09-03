@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>course | Jon Reifschneider</title>
+    <link>https://jjreif.github.io/tags/course/</link>
+      <atom:link href="https://jjreif.github.io/tags/course/index.xml" rel="self" type="application/rss+xml" />
+    <description>course</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 16:33:44 -0400</lastBuildDate>
+    <image>
+      <url>https://jjreif.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>course</title>
+      <link>https://jjreif.github.io/tags/course/</link>
+    </image>
+    
+    <item>
+      <title>AIPI 510: Sourcing Data for Analytics (Fall)</title>
+      <link>https://jjreif.github.io/project/aipi510/</link>
+      <pubDate>Wed, 02 Sep 2020 16:33:44 -0400</pubDate>
+      <guid>https://jjreif.github.io/project/aipi510/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;&lt;br&gt;
+In practice within industry, one of the main activities, and challenges, of implementing machine learning applications is collecting data to use in modeling.  This course introduces students to both the technical and non-technical (business, regulatory, ethical) aspects of collecting, cleaning, and preparing data for use in machine learning applications.  The first segment of the course will be an introduction to numerical programming focused on building skills in working with data via the Numpy and Pandas libraries, two of the most common tools used by teams working with data and modeling.  Technical aspects covered will include the types of data, methods of sourcing data via the web, APIs, and from domain-specific sensors and hardware (IoT devices), an increasingly common source of analytics data in technical industries.  The course also introduces methods and tools for evaluating the quality of data, performing basic exploratory data analysis, and pre-processing data for use in analytics.  Non-technical aspects covered include an introduction to data privacy, GDPR, regulatory issues, bias, and industry-specific concerns regarding data usage.  The course will conclude with a real-world project in which students work on a problem of their choice to extract useful insights on the problem via sourcing and analysis of multiple data sets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pre-Requisites&lt;/strong&gt;&lt;br&gt;
+Students are expected to understand the main concepts of calculus, linear algebra and probability &amp;amp; statistics, as well as possess a foundational level of proficiency in Python programming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Objectives&lt;/strong&gt;&lt;br&gt;
+Through this course, students will be expected to:&lt;br&gt;
+•	Understand the different types of data and their applications in modeling&lt;br&gt;
+•	Understand the various sources for data (sensors/hardware, APIs/web, etc) and be knowledgeable in methods to collect data from each source&lt;br&gt;
+•	Demonstrate skills in working with data in Python, via the Numpy and Pandas libraries&lt;br&gt;
+•	Develop experience in collecting and pre-processing data for use in analytics models, via hands-on programming&lt;br&gt;
+•	Be able to evaluate the usefulness of datasets for analytics purposes, including measures of quality as well as quantity&lt;br&gt;
+•	Demonstrate skills in analyzing data via exploratory data analysis&lt;br&gt;
+•	Build an appreciation for important regulatory and ethical considerations when sourcing data for use in AI&lt;br&gt;
+•	Gain experience in the end-to-end process of sourcing data for use in AI modeling – from identifying data needs, determining potential sources, assessing legal and ethical concerns, evaluating potential sources, cleaning and pre-processing data, and performing exploratory data analysis&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Materials&lt;/strong&gt;&lt;br&gt;
+•	“Python Data Science Handbook: Essential Tools for Working with Data”, by Jake VanderPlas, O&amp;rsquo;Reilly Media; 1 edition (December 10, 2016), ISBN-13: 978-1491912058, full text and code freely available at &lt;a href=&#34;https://jakevdp.github.io/PythonDataScienceHandbook/&#34;&gt;https://jakevdp.github.io/PythonDataScienceHandbook/&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required Free Software:&lt;/strong&gt;&lt;br&gt;
+•	Python 3.7.x (suggest installing Python via the Anaconda distribution (&lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;https://www.anaconda.com/distribution/&lt;/a&gt;)&lt;br&gt;
+•	The following libraries must also be installed (can be installed using pip or conda):&lt;br&gt;
+o	Numpy&lt;br&gt;
+o	Pandas&lt;br&gt;
+o	Jupyter Notebook&lt;br&gt;
+o	Matplotlib&lt;br&gt;
+•	This class will utilize GitHub for the distribution and collection of coding assignments.  Please see the “Assignment Instructions” document for instructions on setting up Git and GitHub if you do not already have them, and preparing your laptop environment to work on the assignments.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Grading&lt;/strong&gt;&lt;br&gt;
+•	30% Homework assignments (10 assignments)&lt;br&gt;
+•	30% Project (5% proposal, 25% final presentation)&lt;br&gt;
+•	30% Final Exam&lt;br&gt;
+•	10% Class Participation / quizzes&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>AIPI 520: Modeling Process &amp; Algorithms (Spring)</title>
+      <link>https://jjreif.github.io/project/aipi520/</link>
+      <pubDate>Wed, 02 Sep 2020 16:33:44 -0400</pubDate>
+      <guid>https://jjreif.github.io/project/aipi520/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Course Description&lt;/strong&gt;&lt;br&gt;
+This course is an introduction to the modeling process and best practices in model creation, interpretation, validation, and selection of models for different uses.  The primary machine learning algorithms, both supervised and unsupervised, are introduced and explained with the necessary level of mathematical theory to establish students’ intuition for how each algorithm works.  The primary focus will be on “traditional” machine learning approaches but it will also introduce deep learning and its applications.  At the end of this course, students should have a solid understanding of the end-to-end modeling process and the different types of model algorithms along with the strengths, weaknesses, assumptions, and use cases for each type.  Programming in this course will be limited to basic implementations of the model algorithms in Python with the primary goal to reinforce the conceptual understanding using simplified, canned datasets. The course is designed to run in parallel to AAI XXX: Analytics Programming, in which students will gain practice in the programming implementation of the data pre-processing and modeling process and algorithms via case-based learning using real-world datasets.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Pre-Requisites&lt;/strong&gt;&lt;br&gt;
+Students are expected to understand the main concepts of calculus, linear algebra and probability &amp;amp; statistics, as well as possess a foundational level of proficiency in Python programming.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Learning Objectives&lt;/strong&gt;&lt;br&gt;
+Through this course, students will be expected to:&lt;br&gt;
+•	Be able to explain the primary applications of machine learning, including supervised and unsupervised techniques&lt;br&gt;
+•	Understand the steps of the machine learning modeling process and gain practice in them through their programmatic implementation&lt;br&gt;
+•	Be able to explain the strengths, weaknesses, assumptions, general mathematical theory, and use cases for the major types of machine learning algorithms, including clustering, decision trees and ensemble methods, linear and logistic regression, support vector machines, and neural networks&lt;br&gt;
+•	Develop skills in feature selection and evaluating feature importance for modeling&lt;br&gt;
+•	Understand the bias-variance tradeoff and how to perform model selection and hyperparameter tuning&lt;br&gt;
+•	Be able to validate models including cross-validation and communicate their performance including relevant error metrics&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Materials&lt;/strong&gt;&lt;br&gt;
+•	“An Introduction to Statistical Learning” by Gareth James, et al.  The pdf can be downloaded for free at &lt;a href=&#34;http://faculty.marshall.usc.edu/gareth-james/ISL/&#34;&gt;http://faculty.marshall.usc.edu/gareth-james/ISL/&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Required Free Software:&lt;/strong&gt;&lt;br&gt;
+•	Python 3.7.x (suggest installing Python via the Anaconda distribution (&lt;a href=&#34;https://www.anaconda.com/distribution/&#34;&gt;https://www.anaconda.com/distribution/&lt;/a&gt;)&lt;br&gt;
+•	The following libraries must also be installed (can be installed using pip or conda):&lt;br&gt;
+o	Numpy&lt;br&gt;
+o	Pandas&lt;br&gt;
+o	Jupyter Notebook&lt;br&gt;
+o	Matplotlib&lt;br&gt;
+o	Scikit-learn&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Course Grading&lt;/strong&gt;&lt;br&gt;
+•	20% in-class quizzes&lt;br&gt;
+•	30% Homework assignments&lt;br&gt;
+•	20% Midterm exam&lt;br&gt;
+•	30% Final Exam&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

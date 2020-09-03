@@ -3,6 +3,55 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jjreif.github.io/curie/</loc>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/project/aipi510/</loc>
+    <lastmod>2020-09-02T16:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/project/aipi520/</loc>
+    <lastmod>2020-09-02T16:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/tags/course/</loc>
+    <lastmod>2020-09-02T16:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/tags/project/</loc>
+    <lastmod>2020-09-02T16:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/project/</loc>
+    <lastmod>2020-09-02T16:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/project/sipp/</loc>
+    <lastmod>2020-09-02T16:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/tags/</loc>
+    <lastmod>2020-09-02T16:33:44-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jjreif.github.io/travel/</loc>
+    <lastmod>2019-01-01T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jjreif.github.io/authors/</loc>
   </url>
   
@@ -11,11 +60,7 @@
   </url>
   
   <url>
-    <loc>https://jjreif.github.io/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jjreif.github.io/author/jon-reifschneider/</loc>
+    <loc>https://jjreif.github.io/authors/admin/</loc>
   </url>
   
   <url>
@@ -32,10 +77,6 @@
   
   <url>
     <loc>https://jjreif.github.io/talk/</loc>
-  </url>
-  
-  <url>
-    <loc>https://jjreif.github.io/tags/</loc>
   </url>
   
 </urlset>

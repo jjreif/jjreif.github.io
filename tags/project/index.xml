@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>project | Jon Reifschneider</title>
+    <link>https://jjreif.github.io/tags/project/</link>
+      <atom:link href="https://jjreif.github.io/tags/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>project</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><lastBuildDate>Wed, 02 Sep 2020 16:33:44 -0400</lastBuildDate>
+    <image>
+      <url>https://jjreif.github.io/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>project</title>
+      <link>https://jjreif.github.io/tags/project/</link>
+    </image>
+    
+    <item>
+      <title>Summer Industry Projects Program</title>
+      <link>https://jjreif.github.io/project/sipp/</link>
+      <pubDate>Wed, 02 Sep 2020 16:33:44 -0400</pubDate>
+      <guid>https://jjreif.github.io/project/sipp/</guid>
+      <description>&lt;p&gt;The Summer Industry Projects Program (SIPP) pairs teams of engineering graduate students with corporate sponsors to work on real-world problems over an 8-week period.  Projects range from software development and machine learning to data analysis to market research.  In 2020, over 70 engineering graduate students successfully completed 33 projects for organizations ranging from startups to large tech companies to government agencies.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
