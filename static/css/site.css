@@ -50,7 +50,7 @@ body a {
     padding-top: 20px;
     padding-left: 20px;
     /* Auto span 6 columns */
-    grid-column: span 10;
+    grid-column: span 6;
 }
 #headDesc a {
     text-decoration: none;
@@ -101,11 +101,11 @@ h2 {
     padding: 0;
     margin: 5px 0 15px 0;
 }
-@media (min-width: 992px) {
+/* @media (min-width: 992px) {
     h2 {
         max-width: 300px;
     }
-}
+} */
 
 
 .iico {
