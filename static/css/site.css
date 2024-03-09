@@ -50,7 +50,7 @@ body a {
     padding-top: 20px;
     padding-left: 20px;
     /* Auto span 6 columns */
-    grid-column: span 10;
+    grid-column: span 8;
 }
 #headDesc a {
     text-decoration: none;
@@ -82,7 +82,7 @@ body a {
       text-align: center;
     }
     #headDesc {
-      grid-column: span 14;
+      grid-column: span 12;
       padding-top: 10px;
       text-align: center;
     }
