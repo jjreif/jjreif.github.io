@@ -82,7 +82,7 @@ body a {
       text-align: center;
     }
     #headDesc {
-      grid-column: span 12;
+      grid-column: span 14;
       padding-top: 10px;
       text-align: center;
     }
